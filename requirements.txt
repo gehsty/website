@@ -1,0 +1,1 @@
+plaintext pelican==4.9.1
